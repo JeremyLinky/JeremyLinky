@@ -6,7 +6,7 @@
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-- 🔭 I’m currently studying on Embodied AI.
+<center>- 🔭 I’m currently studying on Embodied AI.</center>
 - 🌱 I’m currently a master student major in Software Engineer in SCUT.
 <p align="center">
 
