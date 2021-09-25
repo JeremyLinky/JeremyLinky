@@ -6,15 +6,15 @@
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-- 🔭 I’m currently studying on Embodied AI.
-- 🌱 I’m currently a master student major in Software Engineer in SCUT.
+<!-- - 🔭 I’m currently studying on Embodied AI.
+- 🌱 I’m currently a master student major in Software Engineer in SCUT. -->
 <p align="center">
 
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
     <br><br>
-    - 🔭 I’m currently studying on Embodied AI.
+    🔭 I’m currently studying on Embodied AI.
     <br><br>
-    - 🌱 I’m currently a master student major in Software Engineer in SCUT.
+    🌱 I’m currently a master student major in Software Engineer in SCUT.
     <samp>
     <br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
