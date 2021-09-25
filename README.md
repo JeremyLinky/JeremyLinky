@@ -8,8 +8,9 @@
 - ⚡ Fun fact: ... -->
 <!-- - 🔭 I’m currently studying on Embodied AI.
 - 🌱 I’m currently a master student major in Software Engineer in SCUT. -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=JeremyLinky&show_icons=true&theme=tokyonight" /> -->
 <p align="center">
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JeremyLinky&show_icons=true&theme=tokyonight" />
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
     <br><br>
     🔭 I’m currently studying on Embodied AI.
@@ -24,4 +25,3 @@
 
 <!-- ![JeremyLinky's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyLinky&show_icons=true&theme=tokyonight) -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JeremyLinky&show_icons=true&theme=tokyonight" />
