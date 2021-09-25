@@ -19,7 +19,8 @@
     <br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <br><br>:coffee: Wanna chat? ::Wechat me on 18933816760!
-     <br><br>![JeremyLinky's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyLinky&show_icons=true&theme=tokyonight)
+    <br><br>
+    ![JeremyLinky's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyLinky&show_icons=true&theme=tokyonight)
   </samp>
 </p>
 
