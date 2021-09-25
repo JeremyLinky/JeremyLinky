@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-- 🔭 I’m currently working on Embodied AI
+- 🔭 I’m currently working on Embodied AI.
 - 🌱 I’m currently a master student major in Software Engineer in SCUT.
 <p align="center">
 
