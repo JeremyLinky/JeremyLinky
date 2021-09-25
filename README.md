@@ -18,7 +18,7 @@
     <samp>
     <br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-    <br><br>:coffee: Wanna chat? ::Wechat me on 18933816760!
+    <br><br>:coffee: Wanna chat? : :point_right Wechat me on 18933816760!
   </samp>
 </p>
 
