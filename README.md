@@ -1,18 +1,12 @@
 ### Hi there 👋
 
-<!-- <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center"> -->
-<!-- **JeremyLinky/JeremyLinky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: -->
-
-<!-- - 🔭 I’m currently working on Embodied AI
-- 🌱 I’m currently a master student major in Software Engineer in SCUT. -->
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-- 🔭 I’m currently working on Embodied AI.
+- 🔭 I’m currently studying on Embodied AI.
 - 🌱 I’m currently a master student major in Software Engineer in SCUT.
 <p align="center">
 
