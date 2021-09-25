@@ -21,6 +21,5 @@
     <br><br>:coffee: Wanna chat? ::Wechat me on 18933816760!
   </samp>
 </p>
-<p align="center">
+
 ![JeremyLinky's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyLinky&show_icons=true&theme=tokyonight)
-</p>
