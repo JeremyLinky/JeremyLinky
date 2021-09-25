@@ -23,6 +23,6 @@
 </p>
 
 <!-- ![JeremyLinky's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyLinky&show_icons=true&theme=tokyonight) -->
-<a href="https://github.com/JeremyLinky/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeremyLinky&show_icons=true&theme=tokyonight" />
+<a">
+  <img align="center" src="![JeremyLinky's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyLinky&show_icons=true&theme=tokyonight)" />
 </a>
