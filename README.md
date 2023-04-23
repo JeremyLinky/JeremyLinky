@@ -19,7 +19,6 @@
     🌱 I’m currently a master student major in Software Engineer in SCUT.
     <samp>
     <br><br>
-    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <br><br>:coffee: Wanna chat? :point_right: Wechat me on 18933816760!
     <br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JeremyLinky&show_icons=true&theme=tokyonight" />
