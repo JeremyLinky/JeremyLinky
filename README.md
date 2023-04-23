@@ -6,8 +6,8 @@
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+- 🌱 It's me! Lin Kunyang（林坤阳）, a master student major in Software Engineer in SCUT. -->
 <!-- - 🔭 I’m currently studying on Embodied AI.
-- 🌱 I’m currently a master student major in Software Engineer in SCUT. -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=JeremyLinky&show_icons=true&theme=tokyonight" /> -->
 <p align="center">
   Hi there 👋
