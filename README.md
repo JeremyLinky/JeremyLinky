@@ -24,9 +24,8 @@
   </samp>
 </p>
 
-- I typically use codingnet to code my projects and publish them to Github when they are finished. So you can hardly see my commit record right here.
-- 
-- I have completed the open source code of three complete projects. For details, see the pined column below.
+<!-- - I typically use codingnet to code my projects and publish them to Github when they are finished. So you can hardly see my commit record right here.
+- I have completed the open source code of three complete projects. For details, see the pined column below. -->
 
 - **我通常使用codingnet进行我的项目代码撰写，当他们完成的时候再公开到Github。所以在此你几乎看不到我的commit记录。**
 
