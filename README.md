@@ -32,4 +32,3 @@
 </p>
 
 <!-- ![JeremyLinky's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyLinky&show_icons=true&theme=tokyonight) -->
-
